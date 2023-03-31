@@ -655,7 +655,7 @@ figure.highlight pre .addition {
     }
   }
    /* 一级菜单居中 */
-   #nav .menus_items {
+  #nav .menus_items {
     position: absolute !important;
     width: fit-content !important;
     left: 50% !important;
